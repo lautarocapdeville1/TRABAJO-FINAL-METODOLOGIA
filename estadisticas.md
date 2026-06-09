@@ -17,5 +17,5 @@ se modificaron 3 archivos, con 18 inserciones en total.
 
 ![alt text](image.png)
 
-
+## Captura del conflicto previo a la resolucion
 ![alt text](image-1.png)
