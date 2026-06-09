@@ -1,6 +1,6 @@
 # Git Branch
 
-
+Comando que sirve para administrar ramas, con él podemos ver las ramas existentes, crear nuevas o borrar .
 
 ---
 
